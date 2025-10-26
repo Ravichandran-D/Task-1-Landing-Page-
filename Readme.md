@@ -20,7 +20,6 @@ This repository contains the source code and assets for the **Landing Page** pro
 
 ├── index.html
 ├── style.css
-├── script.js
 └── assets/
 
 ## Technologies Used
